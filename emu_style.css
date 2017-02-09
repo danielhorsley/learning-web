@@ -1,0 +1,39 @@
+header {color: white;
+border: 1px solid;
+background: #29072e;
+}
+header li {style: none;
+} /* wont work :( */
+footer {color: white;
+border: 1px solid;
+background: #29072e;
+}
+.subheading {font-weight:bold;
+font-variant:small-caps;
+text-transform:capitalize;
+}
+p ::first-letter{ font-family: "Helvetica Neue", Arial, sans-serif;
+font-size:2em;
+}
+p 	{font-family: "Helvetica Neue", Arial, sans-serif;
+font-size:1em;
+}
+h1, h2 {font-variant:small-caps;
+text-transform:capitalize;
+}
+
+blockquote{font-style: italic;
+color: white;
+border: 1px solid;
+background: #013913;
+}
+ul {style:none;
+}
+a {font-weight:bold;
+color: #013913;
+text-decoration: underline;
+}
+
+img {border-style: solid;
+border-color:#013913;
+}
